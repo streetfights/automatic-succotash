@@ -1,4 +1,3 @@
 # automatic-succotash
 
-This is my first repository.
-¯\_(ツ)_/¯
+FIRST ¯\_(ツ)_/¯
